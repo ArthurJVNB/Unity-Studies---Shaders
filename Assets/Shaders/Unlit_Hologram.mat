@@ -30,10 +30,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _Amount: 0
-    - _Amplitude: 14.92
-    - _CutoutThresh: 0.45
+    - _Amplitude: 15
+    - _CutoutThresh: 0
     - _Distance: 0.03
-    - _Speed: 19.68
+    - _Speed: 20
     - _Transparency: 0.25
     m_Colors:
     - _TintColor: {r: 0, g: 0.024029963, b: 0.509434, a: 1}
